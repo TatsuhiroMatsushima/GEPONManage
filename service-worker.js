@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GEPONManage/precache-manifest.cb0f037bbe7da605f4004b08acbe4eec.js"
+  "/GEPONManage/precache-manifest.c55bd8f6eb0cb635c6f3386ddc57aac7.js"
 );
 
 self.addEventListener('message', (event) => {
