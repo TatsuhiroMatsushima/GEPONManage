@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "132247fd6c9ad7b104e68209cdab02f2",
+    "revision": "d74ef3e4611553593926e5a440a6f802",
     "url": "/GEPONManage/index.html"
   },
   {
-    "revision": "16330040cbd2f0da1d7a",
+    "revision": "5c65bc407841edf322dd",
     "url": "/GEPONManage/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GEPONManage/static/js/2.53a08312.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16330040cbd2f0da1d7a",
-    "url": "/GEPONManage/static/js/main.a19ccf8e.chunk.js"
+    "revision": "5c65bc407841edf322dd",
+    "url": "/GEPONManage/static/js/main.7a40cbef.chunk.js"
   },
   {
     "revision": "a56e0348f0b03af7ced9",
